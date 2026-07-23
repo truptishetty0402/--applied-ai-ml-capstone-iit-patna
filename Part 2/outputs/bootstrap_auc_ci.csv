@@ -1,0 +1,5 @@
+metric,value
+mean_auc_diff,-0.00880182847218742
+ci_lower_2.5pct,-0.014783414783239362
+ci_upper_97.5pct,-0.003488326595371119
+excludes_zero,True
